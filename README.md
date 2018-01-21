@@ -15,4 +15,4 @@ The code consists of 6 main files:
 
 5 - GTA5_control.m - This script drives the car. It grabs a screenshot of GTA5, classifies it with the CNN and then presses the corresponding key to drive the car.
 
-6 - Key_press.py - Python script to simulated pressed ekyboard keys (taken from  http://stackoverflow.com/questions/14489013/simulate-python-keypresses-for-controlling-a-game)
+6 - Key_press.py - Python script to simulated pressed keyboard keys (taken from  http://stackoverflow.com/questions/14489013/simulate-python-keypresses-for-controlling-a-game)
